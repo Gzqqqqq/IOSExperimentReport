@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MultiCoreData/PersonsTableViewController.swift"
+            timestampString = "566572591.351403"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "PersonsTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiCoreData.PersonsTableViewController.persons.getter : Swift.Optional&lt;Swift.Array&lt;MultiCoreData.Person&gt;&gt;"
+                  moduleName = "MultiCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gzq/Desktop/IOS/iOS%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/MultiCoreData/MultiCoreData/PersonsTableViewController.swift"
+                  timestampString = "566569830.147436"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "105">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiCoreData.PersonsTableViewController.persons.setter : Swift.Optional&lt;Swift.Array&lt;MultiCoreData.Person&gt;&gt;"
+                  moduleName = "MultiCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gzq/Desktop/IOS/iOS%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/MultiCoreData/MultiCoreData/PersonsTableViewController.swift"
+                  timestampString = "566569830.150968"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiCoreData.PersonsTableViewController.init(style: __C.UITableViewStyle) -&gt; MultiCoreData.PersonsTableViewController"
+                  moduleName = "MultiCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gzq/Desktop/IOS/iOS%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/MultiCoreData/MultiCoreData/PersonsTableViewController.swift"
+                  timestampString = "566569830.152916"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "973">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiCoreData.PersonsTableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; MultiCoreData.PersonsTableViewController"
+                  moduleName = "MultiCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gzq/Desktop/IOS/iOS%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/MultiCoreData/MultiCoreData/PersonsTableViewController.swift"
+                  timestampString = "566569830.154876"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "1005">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "MultiCoreData.PersonsTableViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;MultiCoreData.PersonsTableViewController&gt;"
+                  moduleName = "MultiCoreData"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gzq/Desktop/IOS/iOS%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/%E7%AC%AC%E5%8D%81%E4%BA%8C%E6%AC%A1%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/MultiCoreData/MultiCoreData/PersonsTableViewController.swift"
+                  timestampString = "566569830.157203"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "947">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
